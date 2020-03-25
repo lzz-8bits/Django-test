@@ -729,3 +729,7 @@ def serverAdd(request):
     return  render(request, "serveradd.html", re)
 
 
+def test(request):
+    pass
+
+

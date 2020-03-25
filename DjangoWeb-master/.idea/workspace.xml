@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="068e8555-ef42-4931-b671-8a4b720ffebc" name="默认的" comment="" />
+    <list default="true" id="068e8555-ef42-4931-b671-8a4b720ffebc" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -245,6 +248,7 @@
       <workItem from="1584847346267" duration="1250000" />
       <workItem from="1584881193968" duration="1300000" />
       <workItem from="1584930251394" duration="3565000" />
+      <workItem from="1585125708301" duration="186000" />
     </task>
     <servers />
   </component>
